@@ -1,0 +1,63 @@
+.home-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px 20px;
+    color: white;
+    font-family: "Arial", sans-serif;
+    border-radius: 10px;
+  }
+  
+  .intro-heading {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #ffcc00;
+  }
+  
+  .intro-text {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #e6e6e6;
+  }
+  
+  .section-heading {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-top: 0px;
+    color: #58a6ff;
+  }
+  
+  .section-text {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #d1d5db;
+  }
+  
+  /* Follow Me Section */
+  .follow-me {
+    margin-top: 30px;
+    padding-top: 0px;
+    border-top: 1px solid #3b3b3b;
+    text-align: left;
+  }
+  
+  .follow-text {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #ffcc00;
+  }
+  
+  .email {
+    font-size: 1rem;
+    color: #e6e6e6;
+    margin-top: 5px;
+  }
+  .gdsc-link {
+    color: #4da6ff; /* Blue link */
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .gdsc-link:hover {
+    color: #ffcc00; /* Change color on hover */
+  }
